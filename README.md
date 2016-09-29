@@ -1,4 +1,4 @@
-# yout
+# Yout Player
 Youtube playlist player for desktop
 
 Official website
