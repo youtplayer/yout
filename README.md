@@ -1,8 +1,8 @@
 # Yout Player
 Youtube playlist player for desktop. Free, no youtube ads, available for Linux and Windows.
 
-<a href="https://youtplayer.github.io/" target="_blank">Website</a> | 
-<a href="https://github.com/youtplayer" target="_blank">Repository</a>
+<a href="https://youtplayer.github.io/">Website</a> | 
+<a href="https://github.com/youtplayer">Repository</a>
 
 Released version (1.0):
 
