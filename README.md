@@ -4,6 +4,9 @@ Youtube playlist player for desktop. Free, no youtube ads, available for Linux a
 Official website
 https://youtplayer.github.io/
 
+Official repository
+https://github.com/youtplayer
+
 Released version (1.0):
 
 <img src="http://i.giphy.com/BL9AuNufoqDiU.gif" alt="" />
