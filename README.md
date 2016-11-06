@@ -1,7 +1,7 @@
 # Yout Player
-YouTube playlist player on Desktop without browsers. Free, no YouTube ads, floating window. Available for Linux, Mac and Windows.
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://youtplayer.github.io/)
 
-<a href="https://youtplayer.github.io/">Website</a>
+YouTube playlist player on Desktop without browsers. Free, no YouTube ads, floating window. Available for Linux, Mac and Windows.
 
 Released version (1.0):
 
