@@ -1,8 +1,8 @@
 # Yout Player
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://youtplayer.github.io/)
 [![Platforms](https://img.shields.io/badge/platforms-osx%20%7C%20linux%20%7C%20windows-ff69b4.svg)](#)
-[![Paypal](https://img.shields.io/badge/donate%20using-paypal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=dvicer%40gmail%2ecom&lc=US&item_name=Dalton%20Menezes&item_number=Yout&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
-[![Pagseguro](https://img.shields.io/badge/donate%20using-pagseguro-green.svg)](https://pag.ae/blZmhm)
+[![Paypal](https://img.shields.io/badge/donate%20using-paypal-green.svg)](https://youtplayer.github.io/#footer)
+[![Pagseguro](https://img.shields.io/badge/donate%20using-pagseguro-green.svg)](https://youtplayer.github.io/#footer)
 
 YouTube playlist player on Desktop without browsers. Free, no YouTube ads, floating window. Available for Linux, Mac and Windows.
 
