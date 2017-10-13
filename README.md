@@ -8,6 +8,9 @@ YouTube playlist player on Desktop without browsers. Free, no YouTube ads, float
 
 <img src="http://i.giphy.com/BL9AuNufoqDiU.gif" alt="" />
 
+# Where's the code?
+I'm currently working in v2.0, so the code will be available here when I release it. But, it's an Electron app, you have the code when you download Yout, ok? 
+
 # Note for musicians
 who want to publish their Works on a new platform and that will be released in Yout Player 2.0. Currently the 1.0 version has more than 17.535 downloads around the world and the 2.0 version is expected to have a very significant growth based on the new features and improvements that are being implemented and expected.
 
