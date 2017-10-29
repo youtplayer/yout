@@ -9,3 +9,7 @@ YouTube playlist player on Desktop without browsers. Free, no YouTube ads, float
 
 # Where's the code?
 I'm currently working in v2.0, so the code will be available here when I release it. But, it's an Electron app, you have the code when you download Yout, ok?
+
+# Yout started getting commercials
+
+I'm sorry about that. It will be fixed in v2.0 release.
