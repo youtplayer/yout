@@ -7,6 +7,13 @@ YouTube playlist player on Desktop without browsers. Free, no YouTube ads, float
 
 <img src="http://i.giphy.com/BL9AuNufoqDiU.gif" alt="" />
 
+# What to expect from the next release?
+
+- Remote Control via Mobile
+- No ads
+- Unlimited Playlists
+- Indiviual videos can be played
+
 # Where's the code?
 I'm currently working in v2.0, so the code will be available here when I release it. But, it's an Electron app, you have the code when you download Yout, ok?
 
