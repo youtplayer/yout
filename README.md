@@ -17,6 +17,7 @@ YouTube playlist player on Desktop without browsers. Free, no YouTube ads, float
 - New Design
 - Playlist Roulette
 - Native Desktop Notifications
+- Search from YouTube
 
 # Where's the code?
 I'm currently working in v2.0, so the code will be available here when I release it. But, it's an Electron app, you have the code when you download Yout, ok?
