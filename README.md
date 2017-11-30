@@ -18,6 +18,7 @@ YouTube playlist player on Desktop without browsers. Free, no YouTube ads, float
 - Playlist Roulette
 - Native Desktop Notifications
 - Search from YouTube
+- Auto skip videos that can't be played
 
 # Where's the code?
 
