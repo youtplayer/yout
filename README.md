@@ -9,14 +9,14 @@ YouTube playlist player on Desktop without browsers. Free, no YouTube ads, float
 
 # What to expect from the next release?
 
-- Remote Control via Mobile
-- No Ads
-- Unlimited Playlists
-- Indiviual videos can be played
-- Identify when you copy a YouTube link outside the app and ask you if you want to watch or add it when you get back to the app.
-- New Design
-- Playlist Roulette
-- Native Desktop Notifications
+- Remote control via mobile
+- No ads
+- Unlimited playlists
+- Individual videos can be played
+- Identify when you copy a YouTube link outside the app and ask you if you want to watch or add it when you get back to the app
+- New design
+- Playlist roulette
+- Native desktop notifications when the video has changed
 - Search from YouTube
 - Auto skip videos that can't be played
 
@@ -24,6 +24,6 @@ YouTube playlist player on Desktop without browsers. Free, no YouTube ads, float
 
 I'm currently working in v2.0, so the code will be available here when I release it. But, it's an Electron app, you have the code when you download Yout, ok?
 
-# Yout started getting commercials
+# Yout has started getting commercials
 
 I'm sorry about that. It will be fixed in v2.0 release.
