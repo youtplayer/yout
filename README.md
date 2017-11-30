@@ -1,22 +1,13 @@
-<p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/20053119?s=200&v=4" alt="yout player logo" />
-</p>
+<p align="center"><img src="https://avatars0.githubusercontent.com/u/20053119?s=200&v=4" alt="yout player logo" /></p>
 
 <h1 align="center">Yout Player</h1>
 
 <p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/platforms-osx%20%7C%20linux%20%7C%20windows-ff69b4.svg" alt="platforms" /></a>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/platforms-osx%20%7C%20linux%20%7C%20windows-ff69b4.svg" alt="platforms" />
-</a>
+  <a href="https://youtplayer.github.io/#footer"><img src="https://img.shields.io/badge/donate%20using-paypal-green.svg" alt="donate using paypal" /></a>
 
-<a href="https://youtplayer.github.io/#footer">
-  <img src="https://img.shields.io/badge/donate%20using-paypal-green.svg" alt="donate using paypal" />
-</a>
-
-<a href="https://youtplayer.github.io/#footer">
-  <img src="https://img.shields.io/badge/donate%20using-pagseguro-green.svg" alt="doar usando pagseguro" />
-</a>
+  <a href="https://youtplayer.github.io/#footer"><img src="https://img.shields.io/badge/donate%20using-pagseguro-green.svg" alt="doar usando pagseguro" /></a>
 </p>
 
 <p align="center">YouTube playlist player on Desktop without browsers. Free, no YouTube ads, floating window. Available for Linux, Mac and Windows.</p>
