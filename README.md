@@ -24,6 +24,7 @@
 - Native desktop notifications when the video has changed
 - Search from YouTube
 - Auto skip videos that can't be played
+- Media keys support
 
 # Where's the code?
 
