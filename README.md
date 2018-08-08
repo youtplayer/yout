@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/platforms-osx%20%7C%20linux%20%7C%20windows-6b1ca0.svg" alt="platforms" /></a>
-  <a href="https://youtplayer.github.io/#footer"><img src="https://img.shields.io/badge/donate%20using-paypal-green.svg" alt="donate using paypal" /></a>
+  <a href="https://paypal.me/daltonmenezes"><img src="https://img.shields.io/badge/donate%20using-paypal-green.svg" alt="donate using paypal" /></a>
   <a href="https://youtplayer.github.io/#footer"><img src="https://img.shields.io/badge/doar%20usando-pagseguro-green.svg" alt="doar usando pagseguro" /></a>
 </p>
 
