@@ -3,10 +3,11 @@
 <h1 align="center">Yout Player</h1>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/platforms-osx%20%7C%20linux%20%7C%20windows-6b1ca0.svg" alt="platforms" /></a>
+<a href="https://www.padrim.com.br/daltonmenezes"><img src="https://img.shields.io/badge/me%20apoie%20no-padrim-red.svg" alt="me apoie no padrim" /></a>
   <a href="https://www.patreon.com/daltonmenezes"><img src="https://img.shields.io/badge/become%20a-patron%20or%20sponsor-orange.svg" alt="become a patron or sponsor" /></a>  
   <a href="https://paypal.me/daltonmenezes"><img src="https://img.shields.io/badge/donate%20using-paypal-green.svg" alt="donate using paypal" /></a>
   <a href="https://youtplayer.github.io/#footer"><img src="https://img.shields.io/badge/doar%20usando-pagseguro-green.svg" alt="doar usando pagseguro" /></a>
+<a href="#"><img src="https://img.shields.io/badge/platforms-osx%20%7C%20linux%20%7C%20windows-6b1ca0.svg" alt="platforms" /></a>  
 </p>
 
 <p align="center">YouTube playlist player on Desktop without browsers. Free, no YouTube ads, floating window. Available for Linux, Mac and Windows.</p>
