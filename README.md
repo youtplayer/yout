@@ -7,7 +7,7 @@
 <h1 align="center">YoutPlayer</h1>
 
 <p align="center">
-  <a href="https://www.patreon.com/daltonmenezes"><img src="https://img.shields.io/badge/become%20a-patron%20or%20sponsor-orange.svg" alt="become a patron or sponsor" /></a>  
+  <a href="https://www.patreon.com/daltonmenezes"><img src="https://img.shields.io/badge/become%20a-patron%20-orange.svg" alt="become a patron" /></a>  
   <a href="https://youtplayer.github.io/#footer"><img src="https://img.shields.io/badge/doar%20usando-pagseguro-green.svg" alt="doar usando pagseguro" /></a>
 <a href="#"><img src="https://img.shields.io/badge/platforms-osx%20%7C%20linux%20%7C%20windows-6b1ca0.svg" alt="platforms" /></a>  
 </p>
