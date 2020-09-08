@@ -1,3 +1,7 @@
+> YoutPlayer v2.0.0 is currently in development from the scratch and its release is expected later this year.
+
+<br><br>
+
 <p align="center"><img src="https://avatars0.githubusercontent.com/u/20053119?s=200&v=4" alt="youtplayer logo" /></p>
 
 <h1 align="center">YoutPlayer</h1>
@@ -11,8 +15,6 @@
 <p align="center">YouTube playlist player on Desktop without browsers. Free, no YouTube ads, floating window. Available for Linux, Mac and Windows.</p>
 
 <p align="center"><img src="http://i.giphy.com/BL9AuNufoqDiU.gif" alt="youtplayer screenshot" /></p>
-
-> YoutPlayer v2.0.0 is currently in development from the scratch and its release is expected later this year.
 
 # What to expect from the next release?
 
