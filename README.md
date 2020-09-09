@@ -1,4 +1,5 @@
-> YoutPlayer v2.0.0 is currently in development from the scratch and its release is expected later this year.
+# News
+YoutPlayer v2.0.0 is currently in development from the scratch and its release is expected later this year. Support it by becoming a [patron](https://www.patreon.com/daltonmenezes) if you would it.
 
 <br><br>
 
