@@ -1,6 +1,9 @@
 # News
 YoutPlayer v2.0.0 is currently in development from the scratch and its release is expected later this year. Support it by becoming a [patron](https://www.patreon.com/daltonmenezes) if you would it.
 
+
+<a href="https://www.youtube.com/watch?v=So6Zhhj88yA">See the v2.0.0 sneak-peek on YouTube<br><img src="https://i.ytimg.com/vi/So6Zhhj88yA/sddefault.jpg" /></a>
+
 <br><br>
 
 <p align="center"><img src="https://avatars0.githubusercontent.com/u/20053119?s=200&v=4" alt="youtplayer logo" /></p>
